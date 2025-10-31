@@ -1,2 +1,2 @@
-python-telegram-bot==20.7
+python-telegram-bot==21.4  # Latest stable (fixes the bug, full v20+ compatibility)
 requests==2.31.0
